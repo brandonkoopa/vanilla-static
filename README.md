@@ -1,4 +1,4 @@
-Starter setup to generate vanillas static site.
+Starter setup to generate vanilla static site.
 
 ## Install
 ```
@@ -18,6 +18,14 @@ or
 ```
 gulp
 ```
+
+## Working with the files
+- [Gulp](https://gulp.js): Manage your tasks in gulpfile.js
+- [PostCSS](https://postcss.org): CSS with latest syntax and plugins for Sass-like comfort.
+- [imagemin](https://www.npmjs.com/package/gulp-imagemin): Optimized images! Set quality of compression in `images` gulp task in gulpfile.js.
+- JS: Only minification, not Babel yet.
+- Watch: When you `gulp serve`, the browser reflects changes to your html, css, js and images.
+
 
 ## License
 
