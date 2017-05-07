@@ -10,7 +10,7 @@ sudo npm install
 gulp serve
 ```
 
-## Build for pProduction
+## Build for production
 ```
 gulp build
 ```
